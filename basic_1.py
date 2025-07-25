@@ -1,14 +1,14 @@
 # print("Hello World")
-# # string type
+# string type
 
 # print(10)
-# # number type
+# number type
 
 # print(True)
-# # Boolean Type
+# Boolean Type
 
 # print(10.52)
-# # Float/Decimal type
+# Float/Decimal type
 
 # strings
 # characterized by double quotes
@@ -25,7 +25,7 @@ part = string2[0:5]
 # num1 = 10
 # num2 = 15
 
-# # floats
+# floats
 # float_1 = 10.8
 # float_2 = 4.323
 
